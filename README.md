@@ -116,4 +116,4 @@ The frontend features a **Premium Dark Glassmorphism** aesthetic:
 - **Visual Excellence**: Curated Inter & Outfit typography.
 
 ---
-Built with ❤️ by Antigravity
+
